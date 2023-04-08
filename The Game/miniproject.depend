@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640166498 source:f:\proggers\miniproject\main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+	<windows.h>
+
